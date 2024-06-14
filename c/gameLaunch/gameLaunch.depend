@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1675609185 source:c:\kompilehelper\gamelaunch\custom_field.cpp
+	"custom_field.h"
+
+1675609208 c:\kompilehelper\gamelaunch\custom_field.h
+	<vector>
+
+1675675070 source:c:\kompilehelper\gamelaunch\mgame.cpp
+	"mgame.h"
+	<algorithm>
+
+1675648110 c:\kompilehelper\gamelaunch\mgame.h
+	"custom_field.h"
+	<string>
+	<iostream>
+
+1675611559 source:c:\kompilehelper\gamelaunch\controller.cpp
+	"controller.h"
+
+1675611526 c:\kompilehelper\gamelaunch\controller.h
+	"mgame.h"
+
+1675679348 source:c:\kompilehelper\gamelaunch\gamelaunch.cpp
+	"controller.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,5 @@
+#N Default Universe
+#S 2x2
+#R B4/S8
+.a
+a.

@@ -1,0 +1,5 @@
+LIBRARY mydll
+EXPORTS
+    IsAllDif
+    CreateSet
+    IsInSet

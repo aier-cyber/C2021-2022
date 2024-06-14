@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1672216853 source:c:\kompilehelper\bih\bigint.cpp
+	"BigInt.h"
+
+1672216907 c:\kompilehelper\bih\bigint.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	<vector>
+
+1672219919 source:c:\kompilehelper\btest.cpp
+	"BigInt.h"
+	<ctime>
+	<iostream>
+	<vector>
+	<sstream>
+	<algorithm>
+	<windows.h>
+	<sys/timeb.h>
+
+1675607394 c:\kompilehelper\bigint.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	<vector>
+
+1675607626 source:c:\kompilehelper\bigint.cpp
+	"BigInt.h"
+
